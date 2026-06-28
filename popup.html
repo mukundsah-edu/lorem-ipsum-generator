@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lorem Ipsum Shortcut Generator</title>
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <main class="popup">
+      <header class="header">
+        <img src="icons/icon-48.png" alt="" class="logo">
+        <div>
+          <h1>Lorem Ipsum</h1>
+          <p>Shortcut Generator</p>
+        </div>
+      </header>
+
+      <section class="generator" aria-labelledby="generator-title">
+        <div class="section-heading">
+          <h2 id="generator-title">Generator</h2>
+          <span class="shortcut">~lo<span id="shortcut-count">25</span></span>
+        </div>
+
+        <label class="field">
+          <span>Words</span>
+          <input id="word-count" type="number" min="1" max="1000" value="25">
+        </label>
+
+        <div class="actions">
+          <button id="generate" type="button">Generate</button>
+          <button id="copy" type="button" class="secondary">Copy</button>
+        </div>
+
+        <textarea id="output" rows="5" readonly></textarea>
+        <p id="status" class="status" role="status"></p>
+      </section>
+
+      <section class="pro" aria-labelledby="pro-title">
+        <div class="section-heading">
+          <h2 id="pro-title">Pro Ideas</h2>
+          <span class="badge">Roadmap</span>
+        </div>
+        <ul>
+          <li>Custom shortcuts</li>
+          <li>Paragraphs and sentences</li>
+          <li>Saved templates</li>
+          <li>Custom word lists</li>
+          <li>Right-click insert</li>
+          <li>Team snippets</li>
+        </ul>
+      </section>
+
+      <footer class="footer">
+        <a href="donate.html" target="_blank" rel="noreferrer">Support</a>
+        <a href="PRO_FEATURES.md" target="_blank" rel="noreferrer">Roadmap</a>
+      </footer>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>

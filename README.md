@@ -15,6 +15,7 @@ It is useful for designers, developers, writers, and testers who need quick dumm
 
 - Generate lorem ipsum words directly inside browser text fields.
 - Use simple shortcuts such as `~lo9`, `~lo25`, or `~lo100`.
+- Click the extension icon to open a popup generator with copy support.
 - Works in regular inputs, textareas, and most rich text editors that use `contenteditable`.
 - Ignores password fields.
 - Only checks a field after `~` is typed, so it stays quiet during normal typing.
@@ -38,6 +39,7 @@ Update the `DONATION_URL` value in [donate.js](donate.js) with your real donatio
 2. Turn on **Developer mode**.
 3. Click **Load unpacked**.
 4. Select this project folder.
+5. Pin the extension and click the toolbar icon to open the generator popup.
 
 ## How It Works
 
