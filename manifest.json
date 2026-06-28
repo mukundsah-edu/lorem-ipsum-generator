@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Lorem Ipsum Shortcut Generator",
+  "name": "Lorem Ipsum Generator",
   "version": "1.0.0",
   "description": "Generate lorem ipsum placeholder text in Chrome with shortcuts like ~lo9, while ignoring password fields.",
   "icons": {
