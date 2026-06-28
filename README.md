@@ -1,5 +1,7 @@
 # Lorem Ipsum Shortcut Generator
 
+![Lorem Ipsum Shortcut Generator logo](icons/icon-128.png)
+
 A lightweight Chrome extension for quickly adding lorem ipsum placeholder text while writing in the browser. Type a shortcut like `~lo9` in a text field and it expands into 9 lorem ipsum words.
 
 It is useful for designers, developers, writers, and testers who need quick dummy text in forms, CMS editors, prototypes, admin panels, or web apps.

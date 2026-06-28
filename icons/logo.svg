@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Lorem Ipsum Shortcut Generator Logo</title>
+  <desc id="desc">A document icon with a text shortcut mark for generating lorem ipsum.</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="10" x2="108" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.52" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="38" y1="26" x2="90" y2="106" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M40 24h34l18 18v58a8 8 0 0 1-8 8H40a8 8 0 0 1-8-8V32a8 8 0 0 1 8-8z" fill="url(#paper)"/>
+  <path d="M74 24v18h18" fill="#c9dcff"/>
+  <path d="M48 58h32M48 72h28M48 86h20" fill="none" stroke="#2563eb" stroke-width="7" stroke-linecap="round"/>
+  <rect x="25" y="78" width="78" height="30" rx="12" fill="#0f172a"/>
+  <path d="M36 94c5-8 12-8 18 0 5 7 12 7 18 0" fill="none" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+  <text x="77" y="99" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">lo</text>
+</svg>
