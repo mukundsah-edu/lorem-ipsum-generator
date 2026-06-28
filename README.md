@@ -20,6 +20,18 @@ It is useful for designers, developers, writers, and testers who need quick dumm
 - Only checks a field after `~` is typed, so it stays quiet during normal typing.
 - Caps output at 1000 words to prevent accidental huge inserts.
 
+## Pro Roadmap
+
+Future Pro features may include custom shortcuts, paragraph and sentence generation, custom word lists, saved templates, a popup generator, right-click actions, and team branding snippets.
+
+See [PRO_FEATURES.md](PRO_FEATURES.md) for the full roadmap.
+
+## Support
+
+Support and donation page: [donate.html](donate.html)
+
+Update the `DONATION_URL` value in [donate.js](donate.js) with your real donation link before publishing the page.
+
 ## Load in Chrome
 
 1. Open `chrome://extensions`.
