@@ -46,3 +46,7 @@ Update the `DONATION_URL` value in [donate.js](donate.js) with your real donatio
 The extension listens for the `~lo<number>` pattern in supported editable fields. When the pattern is found at the cursor, it replaces the shortcut with the requested number of lorem ipsum words.
 
 The shortcut accepts 1 to 4 digits.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
